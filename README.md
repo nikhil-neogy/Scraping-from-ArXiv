@@ -1,7 +1,6 @@
-# Scraping-with-ArXiv
+# Scraping-from-ArXiv
 
 ## Set up the virtual environment
-## Update required packages
 
 python3 -m venv venv
 source venv/bin/activate
